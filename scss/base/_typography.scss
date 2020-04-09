@@ -10,9 +10,12 @@
   
   p {
     line-height: 1.45em;
+    font-size: 1.1em;
   }
   
   a {
+    font-size: 1.2em;
+    color:red;
     text-decoration: none;
   }
   
@@ -22,8 +25,11 @@
   /* ============================================= */
   
   .headline-primary {
-    color: #58e1c1;
+
     margin-left: 10px;
+    font-family: 'Girassol', cursive;
+    color: #0F4C81;
+    font-weight: bold;
   }
   
   .headline-secondary {
